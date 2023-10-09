@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+background:linear-gradient(to right, rgb(241, 242, 243) ,rgb(233, 243, 249));
+}
+
+.transition-container {
+    height: 70px; /* Adjust the height as needed */
+    overflow: hidden;
+  }
+  
+.textarea{
+   width: 300px;
+   height:80px;
+}
+  
+.textemail{
+  width: 300px;
+  height:30px;
+}
